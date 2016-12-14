@@ -25,6 +25,7 @@ _init(){
 	recoveryandroidfile=("$etcdir/android/recovery" "$etcdir/android/recovery-twrp.img")
 	romandroidfile=("$etcdir/android/rom.zip")
 	allfiles=("${includefiles[@]}" "${scriptfiles[@]}")
+	# TODO: meter os ficheiros idependentes da pasta. nao estarem dependentes de includesdir ou scriptdir
 	local inc=0
 	for i in "${!allfiles[@]}";	do
 		# fix permissions for /includes

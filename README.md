@@ -2,7 +2,9 @@
 A multi platform bash tool
 
 ###### Usage:
-bash edevbashtool.sh
+sed -i 's/\r$//' run.sh
+chmod u+x run.sh
+sh run.sh
 
 ###### Inspiration:
 * [Wikipedia](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
