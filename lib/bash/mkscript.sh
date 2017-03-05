@@ -8,6 +8,9 @@
 #notes           :Install Vim and Emacs to use this script.
 #bash_version    :4.1.5(1)-release
 #==============================================================================
+####### Scripts Included:
+#* [Bash Script Header Maker **by bgw**](http://code.activestate.com/recipes/577862-bash-script-to-create-a-header-for-bash-scripts/)
+#* [Bash Portability Test Suite **by Mendel Cooper**](http://tldp.org/LDP/abs/html/portabilityissues.html)
 
 today=$(date +%Y%m%d)
 div=======================================
