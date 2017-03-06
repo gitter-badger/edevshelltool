@@ -2,13 +2,32 @@
 
 A multi platform shell tool
 
-## Features:
-
+## Features
 * Detect Terminal Emulators (ConEmu, MinTTY);
 * Detect Shells (cmd, Powershell, bash);
 * Elevated cmd prompt;
 * Elevated Powershell prompt;
-* 
+
+## Technologies
+* bash
+* batch
+* powershell
+* cmd
+* mingw
+* mingw-w64
+* cygwin
+* msys2
+
+## Compatibility
+Systems:
+* Windows
+  * Windows 10
+    * Windows 10 x64 Build 14393 :ballot_box_with_check:
+* ~~Unix~~
+  * ~~Raspbian~~
+  * ~~Debian~~
+    * ~~Debian 8 Jessie~~
+  * ~~Ubuntu~~
 
 ## Usage:
 
