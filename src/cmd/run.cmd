@@ -6,4 +6,4 @@ where bash
 where cmd
 where powershell
 where bitsadmin.exe
-PowerShell.exe -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""%~1lib\ps\elevate.ps1""' -Verb RunAs}";
+PowerShell.exe -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File ""%LocalDir%lib\ps\elevate.ps1""' -Verb RunAs}";
