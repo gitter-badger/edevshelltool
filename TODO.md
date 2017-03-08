@@ -1,6 +1,10 @@
 # TODOs
 
 ## Features
+* CMD Shell:
+  * Self elevated prompt.
+* Powershell Shell:
+  * Include Powershell scripts. :x:
 * Test Suite:
   * Terminal Emulators:
     * ConEmu :x:
@@ -29,9 +33,6 @@ http://stackoverflow.com/questions/684217/include-relative-files-in-powershell
 
 load script
 http://stackoverflow.com/questions/1864128/load-variables-from-another-powershell-script
-
-elevate
-https://ss64.com/ps/syntax-elevate.html
 
 installed software
 http://techibee.com/powershell/check-if-a-application-is-installed-or-not-using-powershell/365
