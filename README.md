@@ -29,10 +29,10 @@ unix_bootstrap.sh
 ```
 
 ## Support and Contact
-[TODOs](TODO)
+[TODOs](TODO.md)
 
 ## Authors and Contributors
-[Thanks!](THANKS)
+[Thanks!](THANKS.md)
 
 ***
 
