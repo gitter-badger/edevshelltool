@@ -33,9 +33,6 @@ unix_bootstrap.sh
 * Contribute at [TODOs](TODO.md)
 
 ## Authors and Contributors
-* [alex1a](https://github.com/alex1a)
-* [ljmf00](https://github.com/ljmf00)
-
 [Thanks!](THANKS.md)
 
 ***
