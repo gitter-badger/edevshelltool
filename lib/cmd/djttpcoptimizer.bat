@@ -1,12 +1,3 @@
-::::::::::::::::::::::::::::::::::::::::::::
-:: Filename: djttpcoptimizer.bat
-:: Version: 1.30
-:: Authors: http://forum.djtechtools.com/member.php?u=28939, http://forum.djtechtools.com/member.php?u=37894
-:: References: http://forum.djtechtools.com/showthread.php?t=31864&page=2&p=318516&viewfull=1#post318516
-:: Updated: No
-:: Description: DJ PC Optimizer
-::::::::::::::::::::::::::::::::::::::::::::
-
 @Echo off
 if exist C:\Users\%Username%\DJbatch.txt goto menu
 start reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f 

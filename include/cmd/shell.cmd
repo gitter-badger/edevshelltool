@@ -1,10 +1,7 @@
 ::::::::::::::::::::::::::::::::::::::::::::
-:: Filename: shell.cmd
-:: Version: 0.0.2
-:: Authors: alex1a
-:: References: -
-:: Updated: No
-:: Description: include - a simple include cmd script that can do cmd shell things.
+:: Include filename: shell.cmd
+:: Include version: 0.0.2
+:: Include description: a simple include cmd script that can do shell things.
 ::::::::::::::::::::::::::::::::::::::::::::
 
 @echo off
@@ -21,7 +18,7 @@
 goto %~1
 echo ignored
 
-:: Function: ShellLogging
+:: Function: LOG
 :: Syntax: call shell.cmd "LOG" "[rootPath]" "[stringToLog]"
 :: %~2 - rootPath
 :: %~3 - stringToLog
@@ -30,16 +27,17 @@ echo %DATE%%TIME% - %~3 >>%~2appLog.txt 2>>%~2errorLog.txt
 echo %DATE%%TIME% - %~3
 goto EXIT
 
-:: Function: ElevateCMDPermissions
+:: Function: ELEVATE
 :: Syntax: call shell.cmd "ELEVATE" "[rootPath]" "[scriptRunPath]" "[title]"
 :: %~2 - rootPath
 :: %~3 - scriptRunPath
 :: %~4 - title
 :ELEVATE
 :: Start /c or /k
-call %~2lib\cmd\elevate.cmd %~2 %~3 %~4 "arg3"
+set ElevateCmdScriptPath=%~2include\cmd\elevate.cmd
+call %ElevateCmdScriptPath% %~2 %~3 %~4 "test arg4"
 goto EXIT
 
-:: Function: Exit
+:: Function: EXIT
 :EXIT
 exit /b

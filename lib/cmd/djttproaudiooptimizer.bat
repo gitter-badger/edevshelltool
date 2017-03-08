@@ -1,12 +1,3 @@
-::::::::::::::::::::::::::::::::::::::::::::
-:: Filename: djttproaudiooptimizer.bat
-:: Version: -
-:: Authors: https://github.com/seankmchenry
-:: References: https://github.com/seankmchenry/dj-optimize/blob/master/dj-optimize-win7.bat, http://forum.djtechtools.com/showthread.php?t=31864&page=2&p=318516&viewfull=1#post318516
-:: Updated: No
-:: Description: DJ Pro Audio Optimizer
-::::::::::::::::::::::::::::::::::::::::::::
-
 @echo off
 if exist %USERPROFILE%\DJbatch.txt goto menu
 start reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f

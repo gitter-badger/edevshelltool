@@ -1,12 +1,3 @@
-::::::::::::::::::::::::::::::::::::::::::::
-:: Filename: djoptimize.bat
-:: Version: -
-:: Authors: https://github.com/seankmchenry
-:: References: https://github.com/seankmchenry/dj-optimize/blob/master/dj-optimize.bat
-:: Updated: No
-:: Description: DJ Optimizer
-::::::::::::::::::::::::::::::::::::::::::::
-
 @echo off
 
 rem Set environment variable for TEMP path

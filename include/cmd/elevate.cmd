@@ -1,11 +1,18 @@
 ::::::::::::::::::::::::::::::::::::::::::::
 :: Filename: elevate.cmd
 :: Version: 4
-:: Authors: http://stackoverflow.com/users/1016343/matt
+:: Authors: 
 :: References: http://stackoverflow.com/a/12264592
 :: Updated: Yes (alex1a)
 :: Description: Automatically check & get admin rights
 ::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::
+:: Include filename: elevate.cmd
+:: Include version: 0.0.2
+:: Include description: automatically check & get admin rights
+::::::::::::::::::::::::::::::::::::::::::::
+
 
 @echo off
 ::CLS
