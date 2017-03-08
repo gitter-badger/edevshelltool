@@ -1,8 +1,0 @@
-06.03.2017 3:33:16,81 - Calling Admin CMD (D:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd) 
-06.03.2017 3:33:18,22 - Script (elevate.cmd) was successfully elevated 
-06.03.2017 3:33:18,23 - Arguments: P1=D:\ProgrammingFiles\edevshelltool\ P2=D:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd P3=EDev P4=arg3 P5= P6= P7= P8= P9= 
-06.03.2017 3:33:18,24 - Starting Admin CMD - D:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd 
-08.03.2017 0:16:51,99 - Calling Admin CMD (d:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd) 
-08.03.2017 0:16:54,31 - Script (elevate.cmd) was successfully elevated 
-08.03.2017 0:16:54,32 - Arguments: P1=d:\ProgrammingFiles\edevshelltool\ P2=d:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd P3=EDev P4=arg3 P5= P6= P7= P8= P9= 
-08.03.2017 0:16:54,32 - Starting Admin CMD - d:\ProgrammingFiles\edevshelltool\src\cmd\run.cmd 
