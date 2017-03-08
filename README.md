@@ -26,20 +26,27 @@ A cross platform shell script tool.
 ## Compatibility
 Systems:
 * Windows
-  * Windows 10 :ballot_box_with_check:
-* ~~Unix~~
-  * ~~Raspbian~~
-  * ~~Debian~~
-    * ~~Debian 8 Jessie~~
-  * ~~Ubuntu~~
+  * Windows 10
 
 ## Usage
-* ???
+Windows:
 
-## Contribute
+```bat
+win_bootstrap.bat
+```
+
+Unix:
+
+```bash
+unix_bootstrap.sh
+```
+
+## Support and Contact
 [TODOs](TODO)
 
-## Inspiration
+## Authors and Contributors
 [Thanks!](THANKS)
+
+***
 
 This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.emoji-cheat-sheet.com/) :books:
