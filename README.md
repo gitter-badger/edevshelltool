@@ -5,19 +5,6 @@ A cross platform shell script tool.
 * Script Languages: cmd, bash, Powershell, vbscript
 
 ## Features
-* Test Suite:
-  * Terminal Emulators:
-    * ConEmu
-	* MinTTY (Cygwin, Msys2)
-  * Shells:
-    * cmd
-	* Powershell
-	* bash
-  * Development Environments:
-    * mingwm
-	* mingw-w64
-	* Cygwin
-	* Msys2
 * CMD Shell:
   * Self elevated prompt.
 * Powershell Shell:
@@ -35,7 +22,7 @@ Windows:
 win_bootstrap.bat
 ```
 
-Unix:
+~~Unix:~~
 
 ```bash
 unix_bootstrap.sh

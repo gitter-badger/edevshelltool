@@ -1,6 +1,6 @@
 # CUSTOM by edevbashtool
-etc/android/*
-untested.sh
+appLog.txt
+errorLog.txt
 
 # Created by https://www.gitignore.io/api/osx,visualstudiocode,windows
 

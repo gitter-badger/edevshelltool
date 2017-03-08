@@ -1,5 +1,20 @@
 # TODOs
 
+## Features
+* Test Suite:
+  * Terminal Emulators:
+    * ConEmu :x:
+	* MinTTY (Cygwin, Msys2) :x:
+  * Shells:
+    * cmd :x:
+	* Powershell :x:
+	* bash :x:
+  * Development Environments:
+    * mingwm :x:
+	* mingw-w64 :x:
+	* Cygwin :x:
+	* Msys2 :x:
+
 ## Compatibility
 Systems:
 * ~~Unix~~ :x:
