@@ -4,40 +4,24 @@
 :: Include description: a simple include cmd script that can do shell things.
 ::::::::::::::::::::::::::::::::::::::::::::
 
+:: Main Logic
 @echo off
 ::@echo on
 ::cls
-
-:: Debug (Turn On/Off)
-::echo (%~n0.cmd) P1=%1 P2=%2 P3=%3 P4=%4 P5=%5 P6=%6 P7=%7 P8=%8 P9=%9 >>%~2appLog.txt 2>>%~2errorLog.txt
-
-:: Function: Main
-:: Syntax: shell.cmd "[label]" ...
-:: %~1 - label
-::echo %DATE%%TIME% (%~n0.cmd) GOTO %~1 >>%~2appLog.txt 2>>%~2errorLog.txt
+set /a EnableDebug=0
+if /i "%EnableDebug%" EQU "1" echo P1=%1 & echo.P2=%2 & echo.P3=%3 & echo.P4=%4 & echo.P5=%5 & echo.P6=%6 & echo.P7=%7 & echo.P8=%8 & echo.P9=%9
+if /i "%EnableDebug%" EQU "1" echo P~1=%~1 & echo.P~2=%~2 & echo.P~3=%~3 & echo.P~4=%~4 & echo.P~5=%~5 & echo.P~6=%~6 & echo.P~7=%~7 & echo.P~8=%~8 & echo.P~9=%~9
+if /i "%EnableDebug%" EQU "1" echo %~n0.cmd
+if /i "%EnableDebug%" EQU "1" pause
 goto %~1
 echo ignored
 
-:: Function: LOG
-:: Syntax: call shell.cmd "LOG" "[rootPath]" "[stringToLog]"
-:: %~2 - rootPath
-:: %~3 - stringToLog
+:: label: LOG
 :LOG
 echo %DATE%%TIME% - %~3 >>%~2appLog.txt 2>>%~2errorLog.txt
 echo %DATE%%TIME% - %~3
 goto EXIT
 
-:: Function: ELEVATE
-:: Syntax: call shell.cmd "ELEVATE" "[rootPath]" "[scriptRunPath]" "[title]"
-:: %~2 - rootPath
-:: %~3 - scriptRunPath
-:: %~4 - title
-:ELEVATE
-:: Start /c or /k
-set ElevateCmdScriptPath=%~2include\cmd\elevate.cmd
-call %ElevateCmdScriptPath% %~2 %~3 %~4 "test arg4"
-goto EXIT
-
-:: Function: EXIT
+:: label: EXIT
 :EXIT
 exit /b

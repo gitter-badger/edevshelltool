@@ -2,9 +2,9 @@
 
 ## Features
 * CMD Shell:
-  * Self elevated prompt.
+  * aaa.
 * Powershell Shell:
-  * Include Powershell scripts. :x:
+  * aaa. :x:
 * Test Suite:
   * Terminal Emulators:
     * ConEmu :x:

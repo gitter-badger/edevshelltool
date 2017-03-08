@@ -1,16 +1,17 @@
 ::::::::::::::::::::::::::::::::::::::::::::
-:: filename: sysutil.cmd
-:: version: 0.0.1
-:: Authors: alex1a
-:: References: -
-:: Updated: No
-:: description: windows cmd system information.
+:: Include filename: sysutil.cmd
+:: Include version: 0.0.1
+:: Include description: windows cmd system information.
 ::::::::::::::::::::::::::::::::::::::::::::
 
+:: Main Logic
 @echo off
 ::@echo on
 ::cls
-
+set /a EnableDebug=0
+if /i "%EnableDebug%" EQU "1" echo P1=%1 & echo.P2=%2 & echo.P3=%3 & echo.P4=%4 & echo.P5=%5 & echo.P6=%6 & echo.P7=%7 & echo.P8=%8 & echo.P9=%9
+if /i "%EnableDebug%" EQU "1" echo P~1=%~1 & echo.P~2=%~2 & echo.P~3=%~3 & echo.P~4=%~4 & echo.P~5=%~5 & echo.P~6=%~6 & echo.P~7=%~7 & echo.P~8=%~8 & echo.P~9=%~9
+if /i "%EnableDebug%" EQU "1" echo %~n0.cmd
 :: Debug (Turn On/Off)
 ::echo (%~n0.cmd) P1=%1 P2=%2 P3=%3 P4=%4 P5=%5 P6=%6 P7=%7 P8=%8 P9=%9
 
