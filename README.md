@@ -23,14 +23,11 @@ Windows:
 win_bootstrap.bat
 ```
 
-More info at [Wiki](https://github.com/EnthDev/edevshelltool/wiki)
-
 ## Support and Contact
 * Contact us at [enthdev@outlook.com](mailto:enthdev@outlook.com)
 * Contribute at [TODOs](TODO.md)
-
-## Authors and Contributors
-[Thanks!](THANKS.md)
+* Read our [Wiki](https://github.com/EnthDev/edevshelltool/wiki)
+* Check [Authors and Contributors](THANKS.md)
 
 ***
 
