@@ -1,4 +1,4 @@
-# Thanks
+# Authors and Contributors
 
 This page refer all supporters and inspirations.
 
