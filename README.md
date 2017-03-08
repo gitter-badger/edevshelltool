@@ -22,12 +22,6 @@ Windows:
 win_bootstrap.bat
 ```
 
-~~Unix:
-
-```bash
-unix_bootstrap.sh
-```~~
-
 ## Support and Contact
 * Contact us at [enthdev@outlook.com](mailto:enthdev@outlook.com)
 * Contribute at [TODOs](TODO.md)
