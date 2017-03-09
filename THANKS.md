@@ -9,8 +9,8 @@ Some scripts that we modified are inspired by other opensource code.
 ### Include ([/include](https://github.com/EnthDev/edevshelltool/tree/master/include))
 
 #### CMD
-* [elevate.cmd](https://github.com/EnthDev/edevshelltool/blob/master/include/cmd/elevate.cmd)
-  * [Author](http://stackoverflow.com/users/1016343/matt) ([Reference #1](http://stackoverflow.com/a/12264592))
+
+* Elevate - [Author](http://stackoverflow.com/users/1016343/matt) ([Reference #1](http://stackoverflow.com/a/12264592))
 
 ### Scripts Library ([/lib](https://github.com/EnthDev/edevshelltool/tree/master/lib))
 
