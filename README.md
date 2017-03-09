@@ -16,7 +16,7 @@ A cross platform shell script tool.
 Systems:
 * Windows 10 :white_check_mark:
 
-[more...](TODO.md)
+[more...](TODO.md#compatibility)
 
 ## Usage
 
