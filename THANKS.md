@@ -44,6 +44,13 @@ A collection of documents and articles that inspired this project.
   * [Author](https://github.com/jackchammons) ([MSDN - WSL Command Reference](https://msdn.microsoft.com/en-us/commandline/wsl/reference))
   * [HowToGeek - How to Install and Use the Linux Bash Shell on Windows 10](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
   * [StackOverflow - Calling WSL apps through ps/cmd](http://stackoverflow.com/questions/36504784/calling-windows-subsystem-for-linux-apps-through-powershell-cmd)
+* Start PowerShell default colors
+  * [StackOverflow - Launch PS from CMD](http://stackoverflow.com/questions/8670001/how-to-launch-powershell-not-a-script-from-command-line)
+  
+#### PowerShell
+
+* Start default colors
+  * [StackOverflow - Launch shortcut PS default colors](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s)
   
 ***
 
