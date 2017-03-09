@@ -1,9 +1,13 @@
 # CUSTOM by edevbashtool
+
+# Temp txt file
+notes.txt
+# Temp folder
+ignorefolder/
+# Ignore all log files.
+/include/**/*.log
 appLog.txt
 errorLog.txt
-notes.txt
-ignorefolder/
-/include/**/*.log
 
 # Created by https://www.gitignore.io/api/osx,visualstudiocode,windows
 

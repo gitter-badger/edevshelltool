@@ -3,14 +3,15 @@
 :: Description: Boostrap script for Windows systems.
 ::::::::::::::::::::::::::::::::::::::::::::
 
-:: Initialization
+:: Pre-Initialization
 @echo off
 ::@echo on
 cls
+
+:: Initialization
 set /p BuildVersion=<%~dp0version.txt
 set AppTitle="EDev Shell Tool v%BuildVersion%"
 title %AppTitle%
-
 :: Path Initialization
 set LocalDir=%~dp0
 :: /src
@@ -27,17 +28,14 @@ set LocalLibraryPsDir=%LocalLibraryDir%ps
 set LocalIncludeDir=%~dp0include\
 set LocalIncludeCmdDir=%LocalIncludeDir%cmd
 set LocalIncludeBashDir=%LocalIncludeDir%bash
-
 :: Includes Initialization
 set IncludeCmdShell=%LocalIncludeCmdDir%\shell.cmd
-set IncludeCmdElevate=%LocalIncludeCmdDir%\elevate.cmd
 
 :: Main Logic
+set LogFilePath=%LocalDir%appLog.log
 set RunCmdScript=%LocalSourceCmdDir%\run.cmd
-call %IncludeCmdShell% "LOG" "%LocalDir%" "Initialization completed"
-:: Elevate Permissions
-call %IncludeCmdElevate% "ELEVATE" "%LocalDir%" "%RunCmdScript%" %AppTitle% "test arg 4 with spaces"
-call %IncludeCmdShell% "LOG" "%LocalDir%" "TEST"
+call %IncludeCmdShell% "LOGFILE" "%LogFilePath%" "Initialization completed"
+call %IncludeCmdShell% "ELEVATESCRIPT" "%RunCmdScript%" %AppTitle% "%LogFilePath%" "test arg 4 with spaces"
 
 :: Debug Console Close
 ::exit /b

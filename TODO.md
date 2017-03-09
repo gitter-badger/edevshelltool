@@ -8,7 +8,8 @@
   * include sysutil script :x:
   * include netutil script :x:
   * include shell script :x:
-  * implement telnet connection script with tst
+  * implement telnet connection script with tst :x:
+  * implement shifts with parameters to prevent errors with various scripts running at same time :x:
 * powershell
   * correctly implement elevate script :x:
 
