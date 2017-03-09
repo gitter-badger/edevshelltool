@@ -38,4 +38,4 @@ Systems:
 
 ***
 
-This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) :octocat: and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :simple_smile:
+This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) :octocat: and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
