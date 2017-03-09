@@ -26,11 +26,11 @@ A collection of unmodified scripts that we collect to help this project.
 * [djttproaudiooptimizer.bat](https://github.com/EnthDev/edevshelltool/blob/master/lib/cmd/djttproaudiooptimizer.bat) - DJ Pro Audio Optimizer ([Author](https://github.com/seankmchenry) - [Reference #1](https://github.com/seankmchenry/dj-optimize/blob/master/dj-optimize-win7.bat))
 * [djttpcoptimizer.bat](https://github.com/EnthDev/edevshelltool/blob/master/lib/cmd/djttpcoptimizer.bat) - DJ PC Optimizer ([Author](http://forum.djtechtools.com/member.php?u=28939) - [Reference #1](http://forum.djtechtools.com/showthread.php?t=31864&page=2&p=318516&viewfull=1#post318516))
 
-### Documentation
+## Documentation
 
 A collection of documents and articles that inspired this project.
 
-#### CMD
+### CMD
 
 * Elevate permissions
   * [SS64 - Syntax Elevate](https://ss64.com/nt/syntax-elevate.html)
@@ -47,7 +47,7 @@ A collection of documents and articles that inspired this project.
 * Start PowerShell default colors
   * [StackOverflow - Launch PS from CMD](http://stackoverflow.com/questions/8670001/how-to-launch-powershell-not-a-script-from-command-line)
   
-#### PowerShell
+### PowerShell
 
 * Start default colors
   * [StackOverflow - Launch shortcut PS default colors](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s)
