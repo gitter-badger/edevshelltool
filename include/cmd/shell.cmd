@@ -17,7 +17,7 @@ if /i "%EnableDebug%" EQU "1" ( echo --------- & echo.  Debug Batch End & echo.-
 if /i "%EnableDebug%" EQU "1" ( pause )
 
 :: Debug Parameters
-set /a EnableDebugParameters=1
+set /a EnableDebugParameters=0
 if /i "%EnableDebugParameters%" EQU "1" ( echo --------- & echo.  Debug Parameters & echo.--------- )
 if /i "%EnableDebugParameters%" EQU "1" ( echo P1=%1 & echo.P~1=%~1 & echo."P1"="%1" & echo."P~1"="%~1" )
 if /i "%EnableDebugParameters%" EQU "1" ( echo P2=%2 & echo.P~2=%~2 & echo."P2"="%2" & echo."P~2"="%~2" )

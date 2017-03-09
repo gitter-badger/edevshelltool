@@ -8,6 +8,7 @@
   * include netutil script :x:
   * ~~include shell script~~ :white_check_mark:
   * implement telnet connection script with tst :x:
+  * implement errorlevels in scripts :x:
   * implement shifts with parameters to prevent errors with various scripts running at same time :x:
 * powershell
   * correctly implement elevate script :x:
@@ -34,3 +35,7 @@ Systems:
 * raspbian :x:
 * debian :x:
 * ubuntu :x:
+
+***
+
+This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :octocat:
