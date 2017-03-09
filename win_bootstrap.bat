@@ -32,13 +32,13 @@ set LocalIncludeBashDir=%LocalIncludeDir%bash
 set IncludeCmdShell=%LocalIncludeCmdDir%\shell.cmd
 set IncludeCmdElevate=%LocalIncludeCmdDir%\elevate.cmd
 
-:: Elevate Permissions
+:: Main Logic
 set RunCmdScript=%LocalSourceCmdDir%\run.cmd
 call %IncludeCmdShell% "LOG" "%LocalDir%" "Initialization completed"
-call %IncludeCmdShell% "LOG" "%LocalDir%" "Elevating CMD Script: %RunCmdScript%"
-call %IncludeCmdElevate% "ELEVATE" "%LocalDir%" "%RunCmdScript%" %AppTitle% "test arg4"
-::exit /b
+:: Elevate Permissions
+call %IncludeCmdElevate% "ELEVATE" "%LocalDir%" "%RunCmdScript%" %AppTitle% "test arg 4 with spaces"
+call %IncludeCmdShell% "LOG" "%LocalDir%" "TEST"
 
-:: Terminate
-::exit
+:: Debug Console Close
+::exit /b
 pause >nul

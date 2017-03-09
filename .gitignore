@@ -2,6 +2,7 @@
 appLog.txt
 errorLog.txt
 notes.txt
+ignorefolder/
 
 # Created by https://www.gitignore.io/api/osx,visualstudiocode,windows
 

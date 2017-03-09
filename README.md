@@ -1,23 +1,26 @@
 # EDev Shell Tool
+
 A cross platform shell script tool.
 
 ## Technologies
+
 * Script Languages: cmd, bash, Powershell, vbscript
 
 ## Features
+
 * CMD Shell:
-  * Self elevated prompt.
-* Powershell Shell:
   * Self elevated prompt.
 
 ## Compatibility
+
 Systems:
-* Windows
-  * Windows 10
+* Windows 10 :white_check_mark:
+
+[more...](TODO.md)
 
 ## Usage
 
-Windows:
+Windows Systems:
 
 ```bat
 win_bootstrap.bat
