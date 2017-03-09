@@ -34,4 +34,4 @@ win_bootstrap.bat
 
 ***
 
-This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :octocat:
+This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) :octocat: and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :simple_smile:
