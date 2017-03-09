@@ -4,10 +4,9 @@
 * cmd
   * a menu to run all /lib cmd scripts :x:
   * a menu to test if system have installed softwares :x:
-  * include elevate script :x:
   * include sysutil script :x:
   * include netutil script :x:
-  * include shell script :x:
+  * ~~include shell script~~ :white_check_mark:
   * implement telnet connection script with tst :x:
   * implement shifts with parameters to prevent errors with various scripts running at same time :x:
 * powershell
@@ -29,9 +28,9 @@
 	
 ## Compatibility
 Systems:
-* ~~win 7~~ :x:
-* ~~win 8~~ :x:
-* ~~win 8.1~~ :x:
-* ~~raspbian~~ :x:
-* ~~debian~~ :x:
-* ~~ubuntu~~ :x:
+* win 7 :x:
+* win 8 :x:
+* win 8.1 :x:
+* raspbian :x:
+* debian :x:
+* ubuntu :x:
