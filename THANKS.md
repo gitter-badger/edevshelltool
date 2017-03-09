@@ -1,6 +1,6 @@
-# Authors and Contributors
+# [Home](https://github.com/EnthDev/edevshelltool)/ THANKS
 
-This page refer all supporters and inspirations.
+This page refer all supporters, authors and inspirations.
 
 ## Script Inspirations
 
