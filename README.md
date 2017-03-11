@@ -22,7 +22,9 @@ A cross platform shell script tool.
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/os_win.png"></a>
 </p>
 
+<p align="center">
 [more...](TODO.md#compatibility)
+</p>
 
 <h1 align="center">Usage</h1>
 
