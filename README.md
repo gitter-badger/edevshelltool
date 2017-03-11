@@ -2,13 +2,11 @@
 
 A cross platform shell script tool.
 
-<h1 align="center">Installation Guides</h1>
-
-## Technologies
+<h1 align="center">Technologies</h1>
 
 * Script Languages: cmd, bash, Powershell, vbscript
 
-## Features
+<h1 align="center">Features</h1>
 
 * CMD Shell:
   * Self elevated prompt.
