@@ -7,10 +7,10 @@ A cross platform shell script tool.
 * Script Languages: cmd, bash, Powershell, vbscript
 
 <p align="center">
-<a href="cmd"><img src="https://github.com/adam-p/markdown-here/raw/master/doc/shell-cmd-icon.png"></a>
-<a href="bash"><img src="https://github.com/adam-p/markdown-here/raw/master/doc/shell-bash-icon.png"></a>
-<a href="ps"><img src="https://github.com/adam-p/markdown-here/raw/master/doc/shell-ps-icon.png"></a>
-<a href="vbs"><img src="https://github.com/adam-p/markdown-here/raw/master/doc/shell-vbs-icon.png"></a>
+<a href="cmd"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-cmd-icon.png"></a>
+<a href="bash"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-bash-icon.png"></a>
+<a href="ps"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-ps-icon.png"></a>
+<a href="vbs"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-vbs-icon.png"></a>
 </p>
 
 <h1 align="center">Features</h1>
