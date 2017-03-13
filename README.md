@@ -16,15 +16,13 @@ A cross platform shell script tool.
 * CMD Shell:
   * Self elevated prompt.
 
-<h1 align="center">Compatibility</h1>
 
+<h1 align="center">Compatibility</h1>
 <p align="center">
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/os_win.png"></a>
 </p>
 
-<p align="center">
 [more...](TODO.md#compatibility)
-</p>
 
 <h1 align="center">Usage</h1>
 

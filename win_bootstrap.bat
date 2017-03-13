@@ -34,8 +34,10 @@ set IncludeCmdShell=%LocalIncludeCmdDir%\shell.cmd
 :: Main Logic
 set LogFilePath=%LocalDir%appLog.log
 set RunCmdScript=%LocalSourceCmdDir%\run.cmd
+set MenuCmdTest=%LocalSourceCmdDir%\menushell.cmd
 call %IncludeCmdShell% "LOGFILE" "%LogFilePath%" "Initialization completed"
-call %IncludeCmdShell% "ELEVATESCRIPT" "%RunCmdScript%" %AppTitle% "%LogFilePath%" "test arg 4 with spaces"
+::call %IncludeCmdShell% "ELEVATESCRIPT" "%RunCmdScript%" %AppTitle% "%LogFilePath%" "test arg 4 with spaces"
+call %IncludeCmdShell% "ELEVATESCRIPT" "%MenuCmdTest%" %AppTitle% "%LogFilePath%" "test arg 4 with spaces"
 
 :: Debug Console Close
 ::exit /b
