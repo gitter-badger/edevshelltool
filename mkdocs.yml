@@ -1,7 +1,12 @@
 site_name: EDev Shell Tool
-site_url: http://www.mkdocs.org
-site_description: Project documentation with Markdown.
-site_author: EDev
+site_url: https://enthdev.github.io/edevshelltool/
+site_description: A cross platform shell script tool.
+site_author: Enthusiastic Development
 
 pages:
 - Home: index.md
+
+extra_css:
+- css/extra.css
+
+copyright: Maintained by the <a href="https://github.com/EnthDev">Enthusiastic Development</a> Team.

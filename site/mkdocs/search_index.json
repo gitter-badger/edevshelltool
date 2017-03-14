@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeatures\n\n\n\n\n\nCMD Shell:\n\n\nSelf elevated prompt.\n\n\n\n\nCompatibility\n\n\n\n\n\n\n\n\n\n\nmore...\n\n\nUsage\n\n\n\nWindows Systems:\n\n\nwin_bootstrap.bat\n\n\n\n\nLinks\n\n\n\n\nDocumentation\n\n\nContribute\n\n\nSupport\n\n\nContact\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
             "title": "Home"
         },
         {
             "location": "/#edev-shell-tool",
             "text": "A cross platform shell script tool.",
             "title": "EDev Shell Tool"
-        },
-        {
-            "location": "/#links",
-            "text": "Documentation  Contribute  Support  Contact    This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
-            "title": "Links"
         }
     ]
 }

@@ -1,0 +1,22 @@
+site_name: EDev Shell Tool
+site_url: https://enthdev.github.io/edevshelltool/
+site_description: A cross platform shell script tool.
+site_author: Enthusiastic Development
+
+pages:
+- Home: index.md
+- User Guide:
+    - Writing Your Docs: user-guide/writing-your-docs.md
+    - Styling Your Docs: user-guide/styling-your-docs.md
+    - Configuration: user-guide/configuration.md
+    - Deploying Your Docs: user-guide/deploying-your-docs.md
+    - Custom Themes: user-guide/custom-themes.md
+- About:
+    - Release Notes: about/release-notes.md
+    - Contributing: about/contributing.md
+    - License: about/license.md
+
+extra_css:
+- css/extra.css
+
+copyright: Copyright &copy; 2014 <a href="/release-notes/">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.

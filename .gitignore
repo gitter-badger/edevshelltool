@@ -2,12 +2,18 @@
 
 # Temp txt file
 notes.txt
+addcommitpush.cmd
 # Temp folder
-ignorefolder/
+tempFolder/
 # Ignore all log files.
 /include/**/*.log
+# Main log files.
 appLog.txt
 errorLog.txt
+
+# MKDocs
+# site generated.
+site/
 
 # Created by https://www.gitignore.io/api/osx,visualstudiocode,windows
 
