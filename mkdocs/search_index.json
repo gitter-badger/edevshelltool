@@ -2,13 +2,63 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest Suites\n\n\n\n\nterminal emulators\n\n\n[ ] conemu\n\n\n[ ] mintty (cygwin, msys2)\n\n\nshells\n\n\n[ ] cmd\n\n\n[ ] powershell\n\n\n[ ] bash\n\n\nDevelopment Environments:\n\n\n[ ] mingwm\n\n\n[ ] mingw-w64\n\n\n[ ] cygwin\n\n\n[ ] msys2\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
             "title": "Home"
         },
         {
             "location": "/#edev-shell-tool",
             "text": "A cross platform shell script tool.",
             "title": "EDev Shell Tool"
+        },
+        {
+            "location": "/#test-suites",
+            "text": "terminal emulators  [ ] conemu  [ ] mintty (cygwin, msys2)  shells  [ ] cmd  [ ] powershell  [ ] bash  Development Environments:  [ ] mingwm  [ ] mingw-w64  [ ] cygwin  [ ] msys2    This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
+            "title": "Test Suites"
+        },
+        {
+            "location": "/",
+            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest Suites\n\n\n\n\nterminal emulators\n\n\n[ ] conemu\n\n\n[ ] mintty (cygwin, msys2)\n\n\nshells\n\n\n[ ] cmd\n\n\n[ ] powershell\n\n\n[ ] bash\n\n\nDevelopment Environments:\n\n\n[ ] mingwm\n\n\n[ ] mingw-w64\n\n\n[ ] cygwin\n\n\n[ ] msys2\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "title": "Writing Your Docs"
+        },
+        {
+            "location": "/#edev-shell-tool",
+            "text": "A cross platform shell script tool.",
+            "title": "EDev Shell Tool"
+        },
+        {
+            "location": "/#test-suites",
+            "text": "terminal emulators  [ ] conemu  [ ] mintty (cygwin, msys2)  shells  [ ] cmd  [ ] powershell  [ ] bash  Development Environments:  [ ] mingwm  [ ] mingw-w64  [ ] cygwin  [ ] msys2    This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
+            "title": "Test Suites"
+        },
+        {
+            "location": "/about/release-notes/",
+            "text": "",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/about/contributing/",
+            "text": "",
+            "title": "Contributing"
+        },
+        {
+            "location": "/about/license/",
+            "text": "License\n\n\nThe legal stuff.\n\n\n\n\nIncluded projects\n\n\nThemes used under license from the ReadTheDocs projects.\n\n\n\n\nReadTheDocs theme - \nView license\n.\n\n\n\n\nMany thanks to the authors and contributors of those wonderful projects.\n\n\nEDev Shell Tool License (MIT)\n\n\nMIT License\n\n\nCopyright (c) 2017 EnthDev\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+            "title": "License"
+        },
+        {
+            "location": "/about/license/#license",
+            "text": "The legal stuff.",
+            "title": "License"
+        },
+        {
+            "location": "/about/license/#included-projects",
+            "text": "Themes used under license from the ReadTheDocs projects.   ReadTheDocs theme -  View license .   Many thanks to the authors and contributors of those wonderful projects.",
+            "title": "Included projects"
+        },
+        {
+            "location": "/about/license/#edev-shell-tool-license-mit",
+            "text": "MIT License  Copyright (c) 2017 EnthDev  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+            "title": "EDev Shell Tool License (MIT)"
         }
     ]
 }
