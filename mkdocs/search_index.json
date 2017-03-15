@@ -2,43 +2,33 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest Suites\n\n\n\n\nterminal emulators\n\n\n[ ] conemu\n\n\n[ ] mintty (cygwin, msys2)\n\n\nshells\n\n\n[ ] cmd\n\n\n[ ] powershell\n\n\n[ ] bash\n\n\nDevelopment Environments:\n\n\n[ ] mingwm\n\n\n[ ] mingw-w64\n\n\n[ ] cygwin\n\n\n[ ] msys2\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
             "title": "Home"
         },
         {
             "location": "/#edev-shell-tool",
-            "text": "A cross platform shell script tool.",
+            "text": "A cross platform shell script tool.   sadada",
             "title": "EDev Shell Tool"
         },
         {
             "location": "/#technologies",
-            "text": "",
+            "text": "This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
             "title": "Technologies"
         },
         {
-            "location": "/#test-suites",
-            "text": "terminal emulators  [ ] conemu  [ ] mintty (cygwin, msys2)  shells  [ ] cmd  [ ] powershell  [ ] bash  Development Environments:  [ ] mingwm  [ ] mingw-w64  [ ] cygwin  [ ] msys2    This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
-            "title": "Test Suites"
-        },
-        {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest Suites\n\n\n\n\nterminal emulators\n\n\n[ ] conemu\n\n\n[ ] mintty (cygwin, msys2)\n\n\nshells\n\n\n[ ] cmd\n\n\n[ ] powershell\n\n\n[ ] bash\n\n\nDevelopment Environments:\n\n\n[ ] mingwm\n\n\n[ ] mingw-w64\n\n\n[ ] cygwin\n\n\n[ ] msys2\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
             "title": "Writing Your Docs"
         },
         {
             "location": "/#edev-shell-tool",
-            "text": "A cross platform shell script tool.",
+            "text": "A cross platform shell script tool.   sadada",
             "title": "EDev Shell Tool"
         },
         {
             "location": "/#technologies",
-            "text": "",
+            "text": "This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
             "title": "Technologies"
-        },
-        {
-            "location": "/#test-suites",
-            "text": "terminal emulators  [ ] conemu  [ ] mintty (cygwin, msys2)  shells  [ ] cmd  [ ] powershell  [ ] bash  Development Environments:  [ ] mingwm  [ ] mingw-w64  [ ] cygwin  [ ] msys2    This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
-            "title": "Test Suites"
         },
         {
             "location": "/about/release-notes/",
