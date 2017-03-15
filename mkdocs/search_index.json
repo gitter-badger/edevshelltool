@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDevShellTool\n#\n\n\nA collection of utility\u00a0scripts.\n\n\n\n\nOverview\n#\n\n\nEDevShellTool is a collection of shell scripts.\n\n\n\n\nTable of Contents\n\n\nEDevShellTool\n\n\nOverview\n\n\nEasy to use\n\n\n\n\n\n\nInstallation\n\n\nGit\n\n\nWithout Git\n\n\n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\n\n\nEasy to use\n#\n\n\nJust open\n\n\n\n\nInstallation\n#\n\n\nGit\n#\n\n\nasdada\n\n\nWithout Git\n#\n\n\nsadsadsa\n\n\n\n\nSee Also:\n\n\naaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.\n\n\nbbbbbbbbbbbbbbbbbbbbbb.\n\n\n\n\n\n\nGetting Started\n#\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada\n\n\n\n\n\n\nThis document was written with \nPython Markdown",
+            "text": "EDevShellTool\n#\n\n\nA collection of utility\u00a0scripts.\n\n\n\n\nOverview\n#\n\n\nEDevShellTool is a collection of shell scripts.\n\n\n\n\nTable of Contents\n\n\nEDevShellTool\n\n\nOverview\n\n\nEasy to use\n\n\n\n\n\n\nInstallation\n\n\nGit\n\n\nWithout Git\n\n\nWindows\n\n\n\n\n\n\n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\n\n\nEasy to use\n#\n\n\nJust open\n\n\n\n\nInstallation\n#\n\n\nGit\n#\n\n\nclone https://github.com/EnthDev/edevshelltool.git\n\n\n\n\nWithout Git\n#\n\n\nwget https://raw.github.com/EnthDev/edevshelltool/master/setup/unix_install.sh\n\n\n\n\nor\n\n\nwget https://raw.github.com/EnthDev/edevshelltool/master/setup/unix_install.sh\n\n\n\n\nWindows\n#\n\n\niex ((New-Object Net.WebClient).DownloadString('https://raw.github.com/EnthDev/edevshelltool/master/setup/win_install.ps1'))\n\n\n\n\n\n\nNote\n\n\nYou must have your execution policy set to unrestricted (or at least in bypass) for this to work.\n\n\nTo set this, run \nSet-ExecutionPolicy Unrestricted\n from a PowerShell running as Administrator.\n\n\n\n\n\n\nGetting Started\n#\n\n\nasaasdas\n\n\n\n\nSee Also:\n\n\nNote: You must have your execution policy set to unrestricted (or at least in bypass) for this to work. To set this, run Set-ExecutionPolicy Unrestricted from a PowerShell running as Administrator.\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.\n\n\nbbbbbbbbbbbbbbbbbbbbbb.\n\n\n\n\n\n\nsadada\n\n\n\n\n\n\nThis document was written with \nPython Markdown",
             "title": "Home"
         },
         {
             "location": "/#overview",
-            "text": "EDevShellTool is a collection of shell scripts.   Table of Contents  EDevShellTool  Overview  Easy to use    Installation  Git  Without Git    Getting Started",
+            "text": "EDevShellTool is a collection of shell scripts.   Table of Contents  EDevShellTool  Overview  Easy to use    Installation  Git  Without Git  Windows      Getting Started",
             "title": "Overview"
         },
         {
@@ -22,17 +22,22 @@
         },
         {
             "location": "/#git",
-            "text": "asdada",
+            "text": "clone https://github.com/EnthDev/edevshelltool.git",
             "title": "Git"
         },
         {
             "location": "/#without-git",
-            "text": "sadsadsa   See Also:  aaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.  bbbbbbbbbbbbbbbbbbbbbb.",
+            "text": "wget https://raw.github.com/EnthDev/edevshelltool/master/setup/unix_install.sh  or  wget https://raw.github.com/EnthDev/edevshelltool/master/setup/unix_install.sh",
             "title": "Without Git"
         },
         {
+            "location": "/#windows",
+            "text": "iex ((New-Object Net.WebClient).DownloadString('https://raw.github.com/EnthDev/edevshelltool/master/setup/win_install.ps1'))   Note  You must have your execution policy set to unrestricted (or at least in bypass) for this to work.  To set this, run  Set-ExecutionPolicy Unrestricted  from a PowerShell running as Administrator.",
+            "title": "Windows"
+        },
+        {
             "location": "/#getting-started",
-            "text": "asaasdas  aaa   sadada    This document was written with  Python Markdown",
+            "text": "asaasdas   See Also:  Note: You must have your execution policy set to unrestricted (or at least in bypass) for this to work. To set this, run Set-ExecutionPolicy Unrestricted from a PowerShell running as Administrator.\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.  bbbbbbbbbbbbbbbbbbbbbb.    sadada    This document was written with  Python Markdown",
             "title": "Getting Started"
         },
         {
