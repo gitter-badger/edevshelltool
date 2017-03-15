@@ -40,5 +40,9 @@ A collection of documents and articles that inspired this project.
 * Start default colors
   * [StackOverflow - Launch shortcut PS default colors](http://stackoverflow.com/questions/13690223/how-can-i-launch-powershell-exe-with-the-default-colours-from-the-powershell-s)
 
-
 ***
+
+This document was written with [GitHub Flavored Markdown][1] and [MkDocs][2]
+
+[1]: https://guides.github.com/features/mastering-markdown/
+[2]: http://www.mkdocs.org/
