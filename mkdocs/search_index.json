@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDevShellTool\n\u00b6\n\n\nA cross platform shell script\u00a0tool.\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
+            "text": "EDevShellTool\n\u00b6\n\n\nA cross platform shell script\u00a0tool.\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Also:\n\n\nOn GitHub, the \nedit\n path opens the page in the online GitHub editor. This\nfunctionality requires that the user have and be logged in to a GitHub\naccount. Otherwise, the user will be redirected to a login/signup page.\nAlternatively, use the \nblob\n path to open a read-only view, which supports\nanonymous access. E.g. \nblob/master/docs/\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#technologies",
-            "text": "",
+            "text": "See Also:  On GitHub, the  edit  path opens the page in the online GitHub editor. This\nfunctionality requires that the user have and be logged in to a GitHub\naccount. Otherwise, the user will be redirected to a login/signup page.\nAlternatively, use the  blob  path to open a read-only view, which supports\nanonymous access. E.g.  blob/master/docs/",
             "title": "Technologies"
         },
         {
@@ -26,12 +26,12 @@
             "title": "Git"
         },
         {
-            "location": "/#without-git",
+            "location": "/#without#git",
             "text": "sadsadsa",
             "title": "Without Git"
         },
         {
-            "location": "/#getting-started",
+            "location": "/#getting#started",
             "text": "asaasdas  aaa   sadada",
             "title": "Getting Started"
         },
@@ -51,7 +51,7 @@
             "title": "Introduction"
         },
         {
-            "location": "/user-guide/configuration/#project-information",
+            "location": "/user-guide/configuration/#project#information",
             "text": "",
             "title": "Project information"
         },
@@ -61,7 +61,7 @@
             "title": "Release Notes"
         },
         {
-            "location": "/about/release-notes/#release-notes",
+            "location": "/about/release-notes/#release#notes",
             "text": "",
             "title": "Release Notes"
         },
@@ -71,17 +71,17 @@
             "title": "Upgrading"
         },
         {
-            "location": "/about/release-notes/#maintenance-team",
+            "location": "/about/release-notes/#maintenance#team",
             "text": "The current and past members of the MkDocs team.   @tomchristie  @d0ugal  @waylan",
             "title": "Maintenance team"
         },
         {
-            "location": "/about/release-notes/#version-0162-2017-03-13",
+            "location": "/about/release-notes/#version#0162#2017-03-13",
             "text": "System root ( / ) is not a valid path for site_dir or docs_dir (#1161)  Refactor readthedocs theme navigation (#1155 & #1156)  Add support to dev server to serve custom error pages (#1040)  Ensure nav.homepage.url is not blank on error pages (#1131)  Increase livereload dependency to 2.5.1 (#1106)",
             "title": "Version 0.16.2 (2017-03-13)"
         },
         {
-            "location": "/about/release-notes/#version-0161-2016-12-22",
+            "location": "/about/release-notes/#version#0161#2016-12-22",
             "text": "Ensure scrollspy behavior does not affect nav bar (#1094)  Only \"load\" a theme when it is explicitly requested by the user (#1105)",
             "title": "Version 0.16.1 (2016-12-22)"
         },
@@ -91,7 +91,7 @@
             "title": "Contributing"
         },
         {
-            "location": "/about/contributing/#contributing-to-edevshelltool",
+            "location": "/about/contributing/#contributing#to#edevshelltool",
             "text": "",
             "title": "Contributing to EDevShellTool"
         },
@@ -106,12 +106,12 @@
             "title": "License"
         },
         {
-            "location": "/about/license/#included-projects",
+            "location": "/about/license/#included#projects",
             "text": "Themes used under license from the ReadTheDocs projects.   ReadTheDocs theme -  View license .   Scripts used.   CMD Elevate permissions -  Author  ( Reference #1 )  CMD Download file with vbscript -  Author  ( Reference #1 )  djoptimize.bat  - DJ Optimizer ( Author  -  Reference #1 )  djttproaudiooptimizer.bat  - DJ Pro Audio Optimizer ( Author  -  Reference #1 )  djttpcoptimizer.bat  - DJ PC Optimizer ( Author  -  Reference #1 )   Many thanks to the authors and contributors of those wonderful projects.",
             "title": "Included projects"
         },
         {
-            "location": "/about/license/#edev-shell-tool-license-mit",
+            "location": "/about/license/#edev#shell#tool#license#mit",
             "text": "MIT License  Copyright (c) 2017 EnthDev  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
             "title": "EDev Shell Tool License (MIT)"
         }
