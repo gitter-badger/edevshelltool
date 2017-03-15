@@ -2,13 +2,8 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDevShellTool\n\u00b6\n\n\nA cross platform shell script\u00a0tool.\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Also:\n\n\nOn GitHub, the \nedit\n path opens the page in the online GitHub editor. This\nfunctionality requires that the user have and be logged in to a GitHub\naccount. Otherwise, the user will be redirected to a login/signup page.\nAlternatively, use the \nblob\n path to open a read-only view, which supports\nanonymous access. E.g. \nblob/master/docs/\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
+            "text": "EDevShellTool\n#\n\n\nA cross platform shell script\u00a0tool.\n\n\n\n\nTechnologies\n#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee Also:\n\n\nOn GitHub, the \nedit\n path opens the page in the online GitHub editor. This\nfunctionality requires that the user have and be logged in to a GitHub\naccount. Otherwise, the user will be redirected to a login/signup page.\nAlternatively, use the \nblob\n path to open a read-only view, which supports\nanonymous access. E.g. \nblob/master/docs/\n\n\n\n\n\n\nInstallation\n#\n\n\nGit\n#\n\n\nasdada\n\n\nWithout Git\n#\n\n\nsadsadsa\n\n\n\n\nGetting Started\n#\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
             "title": "Home"
-        },
-        {
-            "location": "/#edevshelltool",
-            "text": "A cross platform shell script\u00a0tool.",
-            "title": "EDevShellTool"
         },
         {
             "location": "/#technologies",
@@ -26,23 +21,18 @@
             "title": "Git"
         },
         {
-            "location": "/#without#git",
+            "location": "/#without-git",
             "text": "sadsadsa",
             "title": "Without Git"
         },
         {
-            "location": "/#getting#started",
+            "location": "/#getting-started",
             "text": "asaasdas  aaa   sadada",
             "title": "Getting Started"
         },
         {
             "location": "/user-guide/configuration/",
-            "text": "Configuration\n\u00b6\n\n\nGuide to all available configuration settings.\n\n\n\n\nIntroduction\n\u00b6\n\n\nProject settings are always configured by using a YAML configuration file in the\nproject directory named \nmkdocs.yml\n.\n\n\nAs a minimum this configuration file must contain the \nsite_name\n setting. All\nother settings are optional.\n\n\nProject information\n\u00b6",
-            "title": "Configuration"
-        },
-        {
-            "location": "/user-guide/configuration/#configuration",
-            "text": "Guide to all available configuration settings.",
+            "text": "Configuration\n#\n\n\nGuide to all available configuration settings.\n\n\n\n\nIntroduction\n#\n\n\nProject settings are always configured by using a YAML configuration file in the\nproject directory named \nmkdocs.yml\n.\n\n\nAs a minimum this configuration file must contain the \nsite_name\n setting. All\nother settings are optional.\n\n\nProject information\n#",
             "title": "Configuration"
         },
         {
@@ -51,18 +41,13 @@
             "title": "Introduction"
         },
         {
-            "location": "/user-guide/configuration/#project#information",
+            "location": "/user-guide/configuration/#project-information",
             "text": "",
             "title": "Project information"
         },
         {
             "location": "/about/release-notes/",
-            "text": "Release Notes\n\u00b6\n\n\n\n\nUpgrading\n\u00b6\n\n\nTo upgrade MkDocs to the latest version, use pip:\n\n\npip install -U mkdocs\n\n\n\nYou can determine your currently installed version using \nmkdocs --version\n:\n\n\n$ mkdocs --version\nmkdocs, version 0.15.2\n\n\n\nMaintenance team\n\u00b6\n\n\nThe current and past members of the MkDocs team.\n\n\n\n\n@tomchristie\n\n\n@d0ugal\n\n\n@waylan\n\n\n\n\nVersion 0.16.2 (2017-03-13)\n\u00b6\n\n\n\n\nSystem root (\n/\n) is not a valid path for site_dir or docs_dir (#1161)\n\n\nRefactor readthedocs theme navigation (#1155 & #1156)\n\n\nAdd support to dev server to serve custom error pages (#1040)\n\n\nEnsure nav.homepage.url is not blank on error pages (#1131)\n\n\nIncrease livereload dependency to 2.5.1 (#1106)\n\n\n\n\nVersion 0.16.1 (2016-12-22)\n\u00b6\n\n\n\n\nEnsure scrollspy behavior does not affect nav bar (#1094)\n\n\nOnly \"load\" a theme when it is explicitly requested by the user (#1105)",
-            "title": "Release Notes"
-        },
-        {
-            "location": "/about/release-notes/#release#notes",
-            "text": "",
+            "text": "Release Notes\n#\n\n\n\n\nUpgrading\n#\n\n\nTo upgrade MkDocs to the latest version, use pip:\n\n\npip install -U mkdocs\n\n\n\nYou can determine your currently installed version using \nmkdocs --version\n:\n\n\n$ mkdocs --version\nmkdocs, version 0.15.2\n\n\n\nMaintenance team\n#\n\n\nThe current and past members of the MkDocs team.\n\n\n\n\n@tomchristie\n\n\n@d0ugal\n\n\n@waylan\n\n\n\n\nVersion 0.16.2 (2017-03-13)\n#\n\n\n\n\nSystem root (\n/\n) is not a valid path for site_dir or docs_dir (#1161)\n\n\nRefactor readthedocs theme navigation (#1155 & #1156)\n\n\nAdd support to dev server to serve custom error pages (#1040)\n\n\nEnsure nav.homepage.url is not blank on error pages (#1131)\n\n\nIncrease livereload dependency to 2.5.1 (#1106)\n\n\n\n\nVersion 0.16.1 (2016-12-22)\n#\n\n\n\n\nEnsure scrollspy behavior does not affect nav bar (#1094)\n\n\nOnly \"load\" a theme when it is explicitly requested by the user (#1105)",
             "title": "Release Notes"
         },
         {
@@ -71,47 +56,37 @@
             "title": "Upgrading"
         },
         {
-            "location": "/about/release-notes/#maintenance#team",
+            "location": "/about/release-notes/#maintenance-team",
             "text": "The current and past members of the MkDocs team.   @tomchristie  @d0ugal  @waylan",
             "title": "Maintenance team"
         },
         {
-            "location": "/about/release-notes/#version#0162#2017-03-13",
+            "location": "/about/release-notes/#version-0162-2017-03-13",
             "text": "System root ( / ) is not a valid path for site_dir or docs_dir (#1161)  Refactor readthedocs theme navigation (#1155 & #1156)  Add support to dev server to serve custom error pages (#1040)  Ensure nav.homepage.url is not blank on error pages (#1131)  Increase livereload dependency to 2.5.1 (#1106)",
             "title": "Version 0.16.2 (2017-03-13)"
         },
         {
-            "location": "/about/release-notes/#version#0161#2016-12-22",
+            "location": "/about/release-notes/#version-0161-2016-12-22",
             "text": "Ensure scrollspy behavior does not affect nav bar (#1094)  Only \"load\" a theme when it is explicitly requested by the user (#1105)",
             "title": "Version 0.16.1 (2016-12-22)"
         },
         {
             "location": "/about/contributing/",
-            "text": "Contributing to EDevShellTool\n\u00b6",
+            "text": "Contributing to EDevShellTool\n#",
             "title": "Contributing"
         },
         {
-            "location": "/about/contributing/#contributing#to#edevshelltool",
-            "text": "",
-            "title": "Contributing to EDevShellTool"
-        },
-        {
             "location": "/about/license/",
-            "text": "License\n\u00b6\n\n\nThe legal stuff.\n\n\n\n\n\n\n\n\nLicense\n\n\nIncluded projects\n\n\nEDev Shell Tool License (MIT)\n\n\n\n\n\n\n\n\n\n\nIncluded projects\n\u00b6\n\n\nThemes used under license from the ReadTheDocs projects.\n\n\n\n\nReadTheDocs theme - \nView license\n.\n\n\n\n\nScripts used.\n\n\n\n\nCMD Elevate permissions - \nAuthor\n (\nReference #1\n)\n\n\nCMD Download file with vbscript - \nAuthor\n (\nReference #1\n)\n\n\ndjoptimize.bat\n - DJ Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttproaudiooptimizer.bat\n - DJ Pro Audio Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttpcoptimizer.bat\n - DJ PC Optimizer (\nAuthor\n - \nReference #1\n)\n\n\n\n\nMany thanks to the authors and contributors of those wonderful projects.\n\n\nEDev Shell Tool License (MIT)\n\u00b6\n\n\nMIT License\n\n\nCopyright (c) 2017 EnthDev\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+            "text": "License\n#\n\n\nThe legal stuff.\n\n\n\n\nTable of Contents\n\n\nLicense\n\n\nIncluded projects\n\n\nEDev Shell Tool License (MIT)\n\n\n\n\n\n\n\n\n\n\nIncluded projects\n#\n\n\nThemes used under license from the ReadTheDocs projects.\n\n\n\n\nReadTheDocs theme - \nView license\n.\n\n\n\n\nScripts used.\n\n\n\n\nCMD Elevate permissions - \nAuthor\n (\nReference #1\n)\n\n\nCMD Download file with vbscript - \nAuthor\n (\nReference #1\n)\n\n\ndjoptimize.bat\n - DJ Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttproaudiooptimizer.bat\n - DJ Pro Audio Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttpcoptimizer.bat\n - DJ PC Optimizer (\nAuthor\n - \nReference #1\n)\n\n\n\n\nMany thanks to the authors and contributors of those wonderful projects.\n\n\nEDev Shell Tool License (MIT)\n#\n\n\nMIT License\n\n\nCopyright (c) 2017 EnthDev\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
             "title": "License"
         },
         {
-            "location": "/about/license/#license",
-            "text": "The legal stuff.     License  Included projects  EDev Shell Tool License (MIT)",
-            "title": "License"
-        },
-        {
-            "location": "/about/license/#included#projects",
+            "location": "/about/license/#included-projects",
             "text": "Themes used under license from the ReadTheDocs projects.   ReadTheDocs theme -  View license .   Scripts used.   CMD Elevate permissions -  Author  ( Reference #1 )  CMD Download file with vbscript -  Author  ( Reference #1 )  djoptimize.bat  - DJ Optimizer ( Author  -  Reference #1 )  djttproaudiooptimizer.bat  - DJ Pro Audio Optimizer ( Author  -  Reference #1 )  djttpcoptimizer.bat  - DJ PC Optimizer ( Author  -  Reference #1 )   Many thanks to the authors and contributors of those wonderful projects.",
             "title": "Included projects"
         },
         {
-            "location": "/about/license/#edev#shell#tool#license#mit",
+            "location": "/about/license/#edev-shell-tool-license-mit",
             "text": "MIT License  Copyright (c) 2017 EnthDev  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
             "title": "EDev Shell Tool License (MIT)"
         }
