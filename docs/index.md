@@ -43,3 +43,9 @@ asaasdas
 aaa
 
 > sadada
+
+***
+
+This document was written with [Python Markdown][1]
+
+[1]: https://pythonhosted.org/Markdown/

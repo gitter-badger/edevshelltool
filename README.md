@@ -23,5 +23,5 @@ This document was written with [GitHub Flavored Markdown][1] :octocat: and [Emoj
 [link-projectwiki]: https://github.com/EnthDev/edevshelltool/wiki
 [link-teamemail]: mailto:enthdev@outlook.com
 [link-teampage]: https://github.com/EnthDev
-[1]: https://guides.github.com/features/mastering-markdown/
+[1]: https://pythonhosted.org/Markdown/
 [2]: http://www.webpagefx.com/tools/emoji-cheat-sheet/

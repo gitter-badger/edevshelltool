@@ -8,12 +8,8 @@ tempFolder/
 appLog.txt
 errorLog.txt
 # Utility Scripts
-addcommitpush.cmd
-cmdhere.cmd
 mkdocsbuild.cmd
 mkdocsdeploy.cmd
-# Backups
-mkdocsbak.yml
 # MKDocs
 site/
 
