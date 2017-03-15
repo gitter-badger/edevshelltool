@@ -4,13 +4,7 @@ The legal stuff.
 
 ---
 
-[TOC]
-
 ## Included projects
-
-Themes used under license from the ReadTheDocs projects.
-
-* ReadTheDocs theme - [View license](https://github.com/snide/sphinx_rtd_theme/blob/master/LICENSE).
 
 Scripts used.
 
@@ -20,7 +14,7 @@ Scripts used.
 * [djttproaudiooptimizer.bat](https://github.com/EnthDev/edevshelltool/blob/master/lib/cmd/djttproaudiooptimizer.bat) - DJ Pro Audio Optimizer ([Author](https://github.com/seankmchenry) - [Reference #1](https://github.com/seankmchenry/dj-optimize/blob/master/dj-optimize-win7.bat))
 * [djttpcoptimizer.bat](https://github.com/EnthDev/edevshelltool/blob/master/lib/cmd/djttpcoptimizer.bat) - DJ PC Optimizer ([Author](http://forum.djtechtools.com/member.php?u=28939) - [Reference #1](http://forum.djtechtools.com/showthread.php?t=31864&page=2&p=318516&viewfull=1#post318516))
 
-Many thanks to the authors and contributors of those wonderful projects.
+Thanks to the authors and contributors of those projects.
 
 ## EDev Shell Tool License (MIT)
 
