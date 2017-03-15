@@ -3,6 +3,8 @@ site_url: https://enthdev.github.io/edevshelltool/
 site_description: A cross platform shell script tool.
 site_author: Enthusiastic Development
 
+repo_url: https://github.com/EnthDev/edevshelltool/
+
 pages:
 - Home: index.md
 - User Guide:
@@ -14,5 +16,9 @@ pages:
 
 extra_css:
 - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: True
 
 copyright: Maintained by the <a href="https://github.com/EnthDev">Enthusiastic Development</a> Team.

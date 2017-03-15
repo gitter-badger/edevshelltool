@@ -4,6 +4,8 @@ The legal stuff.
 
 ---
 
+[TOC]
+
 ## Included projects
 
 Themes used under license from the ReadTheDocs projects.
