@@ -8,7 +8,7 @@ repo_url: https://github.com/EnthDev/edevshelltool/
 pages:
 - Home: index.md
 - User Guide:
-    - Writing Your Docs: index.md
+    - Configuration: user-guide/configuration.md
 - About:
     - Release Notes: about/release-notes.md
     - Contributing: about/contributing.md
