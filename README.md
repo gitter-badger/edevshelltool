@@ -10,7 +10,7 @@ A cross platform shell script tool.
 
 * [Documentation][link-projectwebpage]
 * [Wiki][link-projectwiki]
-* [Support][link-supportemail]
+* [Support][link-teamemail]
 * [~~Discussion~~]() (Soon)
 
 ***
