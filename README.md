@@ -2,13 +2,11 @@
 
 A cross platform shell script tool.
 
-> asdada
+> asdada [Project Website][link-projectwebpage]
 
 ---
 
 [![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)][link-teampage]
-
-![EDevShellTool Banner](https://raw.githubusercontent.com/EnthDev/edevshelltool/master/docs/img/wide-banner.png)
 
 ![EDevShellTool Banner](docs/img/wide-banner.png)
 
