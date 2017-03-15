@@ -36,49 +36,64 @@
             "title": "Getting Started"
         },
         {
-            "location": "/",
-            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas",
-            "title": "Writing Your Docs"
+            "location": "/user-guide/configuration/",
+            "text": "Configuration\n\u00b6\n\n\nGuide to all available configuration settings.\n\n\n\n\nIntroduction\n\u00b6\n\n\nProject settings are always configured by using a YAML configuration file in the\nproject directory named \nmkdocs.yml\n.\n\n\nAs a minimum this configuration file must contain the \nsite_name\n setting. All\nother settings are optional.\n\n\nProject information\n\u00b6",
+            "title": "Configuration"
         },
         {
-            "location": "/#edev-shell-tool",
-            "text": "A cross platform shell script tool.   sadada",
-            "title": "EDev Shell Tool"
+            "location": "/user-guide/configuration/#configuration",
+            "text": "Guide to all available configuration settings.",
+            "title": "Configuration"
         },
         {
-            "location": "/#technologies",
+            "location": "/user-guide/configuration/#introduction",
+            "text": "Project settings are always configured by using a YAML configuration file in the\nproject directory named  mkdocs.yml .  As a minimum this configuration file must contain the  site_name  setting. All\nother settings are optional.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/user-guide/configuration/#project-information",
             "text": "",
-            "title": "Technologies"
-        },
-        {
-            "location": "/#installation",
-            "text": "",
-            "title": "Installation"
-        },
-        {
-            "location": "/#git",
-            "text": "asdada",
-            "title": "Git"
-        },
-        {
-            "location": "/#without-git",
-            "text": "sadsadsa",
-            "title": "Without Git"
-        },
-        {
-            "location": "/#getting-started",
-            "text": "asaasdas",
-            "title": "Getting Started"
+            "title": "Project information"
         },
         {
             "location": "/about/release-notes/",
+            "text": "Release Notes\n\u00b6\n\n\n\n\nUpgrading\n\u00b6\n\n\nTo upgrade MkDocs to the latest version, use pip:\n\n\npip install -U mkdocs\n\n\n\nYou can determine your currently installed version using \nmkdocs --version\n:\n\n\n$ mkdocs --version\nmkdocs, version 0.15.2\n\n\n\nMaintenance team\n\u00b6\n\n\nThe current and past members of the MkDocs team.\n\n\n\n\n@tomchristie\n\n\n@d0ugal\n\n\n@waylan\n\n\n\n\nVersion 0.16.2 (2017-03-13)\n\u00b6\n\n\n\n\nSystem root (\n/\n) is not a valid path for site_dir or docs_dir (#1161)\n\n\nRefactor readthedocs theme navigation (#1155 & #1156)\n\n\nAdd support to dev server to serve custom error pages (#1040)\n\n\nEnsure nav.homepage.url is not blank on error pages (#1131)\n\n\nIncrease livereload dependency to 2.5.1 (#1106)\n\n\n\n\nVersion 0.16.1 (2016-12-22)\n\u00b6\n\n\n\n\nEnsure scrollspy behavior does not affect nav bar (#1094)\n\n\nOnly \"load\" a theme when it is explicitly requested by the user (#1105)",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/about/release-notes/#release-notes",
             "text": "",
             "title": "Release Notes"
         },
         {
+            "location": "/about/release-notes/#upgrading",
+            "text": "To upgrade MkDocs to the latest version, use pip:  pip install -U mkdocs  You can determine your currently installed version using  mkdocs --version :  $ mkdocs --version\nmkdocs, version 0.15.2",
+            "title": "Upgrading"
+        },
+        {
+            "location": "/about/release-notes/#maintenance-team",
+            "text": "The current and past members of the MkDocs team.   @tomchristie  @d0ugal  @waylan",
+            "title": "Maintenance team"
+        },
+        {
+            "location": "/about/release-notes/#version-0162-2017-03-13",
+            "text": "System root ( / ) is not a valid path for site_dir or docs_dir (#1161)  Refactor readthedocs theme navigation (#1155 & #1156)  Add support to dev server to serve custom error pages (#1040)  Ensure nav.homepage.url is not blank on error pages (#1131)  Increase livereload dependency to 2.5.1 (#1106)",
+            "title": "Version 0.16.2 (2017-03-13)"
+        },
+        {
+            "location": "/about/release-notes/#version-0161-2016-12-22",
+            "text": "Ensure scrollspy behavior does not affect nav bar (#1094)  Only \"load\" a theme when it is explicitly requested by the user (#1105)",
+            "title": "Version 0.16.1 (2016-12-22)"
+        },
+        {
             "location": "/about/contributing/",
-            "text": "",
+            "text": "Contributing to EDevShellTool\n\u00b6",
             "title": "Contributing"
+        },
+        {
+            "location": "/about/contributing/#contributing-to-edevshelltool",
+            "text": "",
+            "title": "Contributing to EDevShellTool"
         },
         {
             "location": "/about/license/",
