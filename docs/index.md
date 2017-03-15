@@ -1,32 +1,20 @@
 # EDevShellTool
 
-A cross platform shell script&nbsp;tool.
+A collection of utility&nbsp;scripts.
 
 ---
 
 ## Overview
 
-aaaaaaaaaaaaaaaaaaaaa
+EDevShellTool is a collection of shell scripts.
 
 ![EDevShellTool Banner](img/wide-banner.png)
 
-bbbbbbbbbbbbbbbbbbbbbb
-
 [TOC]
 
-### sadadadsadada
+### Easy to use
 
-assadadada
-
-### sadadadsadada
-
-assadadada
-
-!!! note "See Also:"
-    aaaaaaaaaaaaaaaaaaaaa
-    nnnnnnnnnnnnnnnnnnnnnnnnnnn.
-
-    bbbbbbbbbbbbbbbbbbbbbb.
+Just open
 
 ---
 
@@ -39,6 +27,12 @@ asdada
 ### Without Git
 
 sadsadsa
+
+!!! note "See Also:"
+    aaaaaaaaaaaaaaaaaaaaa
+    nnnnnnnnnnnnnnnnnnnnnnnnnnn.
+
+    bbbbbbbbbbbbbbbbbbbbbb.
 
 ---
 

@@ -1,8 +1,8 @@
 # EDevShellTooll
 
-A cross platform shell script tool.
+A collection of utility scripts.
 
-> asdada [Project Website][link-projectwebpage]
+> [Project Website][link-projectwebpage]
 
 ---
 
