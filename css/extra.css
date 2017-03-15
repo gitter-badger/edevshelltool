@@ -7,3 +7,11 @@ div.col-md-9 h1:first-of-type {
 div.col-md-9 p:first-of-type {
     text-align: center;
 }
+
+div.col-md-9 h1:first-of-type .headerlink {
+    display: none;
+}
+
+code.no-highlight {
+    color: black;
+}
