@@ -22,3 +22,4 @@ markdown_extensions:
         permalink: True
 
 copyright: Maintained by the <a href="https://github.com/EnthDev">Enthusiastic Development</a> Team.
+google_analytics: ['UA-93782605-1', 'enthdev.github.io/edevshelltool']
