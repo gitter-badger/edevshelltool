@@ -2,23 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDevShellTool\n#\n\n\nA cross platform shell script\u00a0tool.\n\n\n\n\nOverview\n#\n\n\naaaaaaaaaaaaaaaaaaaaa\n\n\n\n\nbbbbbbbbbbbbbbbbbbbbbb\n\n\nTable of Contents\n\n\nEDevShellTool\n\n\nOverview\n\n\nsadadadsadada\n\n\nsadadadsadada\n\n\n\n\n\n\nInstallation\n\n\nGit\n\n\nWithout Git\n\n\n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\n\n\nsadadadsadada\n#\n\n\nassadadada\n\n\nsadadadsadada\n#\n\n\nassadadada\n\n\n\n\nSee Also:\n\n\naaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.\n\n\nbbbbbbbbbbbbbbbbbbbbbb.\n\n\n\n\n\n\nInstallation\n#\n\n\nGit\n#\n\n\nasdada\n\n\nWithout Git\n#\n\n\nsadsadsa\n\n\n\n\nGetting Started\n#\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
+            "text": "EDevShellTool\n#\n\n\nA collection of utility\u00a0scripts.\n\n\n\n\nOverview\n#\n\n\nEDevShellTool is a collection of shell scripts.\n\n\n\n\nTable of Contents\n\n\nEDevShellTool\n\n\nOverview\n\n\nEasy to use\n\n\n\n\n\n\nInstallation\n\n\nGit\n\n\nWithout Git\n\n\n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\n\n\nEasy to use\n#\n\n\nJust open\n\n\n\n\nInstallation\n#\n\n\nGit\n#\n\n\nasdada\n\n\nWithout Git\n#\n\n\nsadsadsa\n\n\n\n\nSee Also:\n\n\naaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.\n\n\nbbbbbbbbbbbbbbbbbbbbbb.\n\n\n\n\n\n\nGetting Started\n#\n\n\nasaasdas\n\n\naaa\n\n\n\n\nsadada",
             "title": "Home"
         },
         {
             "location": "/#overview",
-            "text": "aaaaaaaaaaaaaaaaaaaaa   bbbbbbbbbbbbbbbbbbbbbb  Table of Contents  EDevShellTool  Overview  sadadadsadada  sadadadsadada    Installation  Git  Without Git    Getting Started",
+            "text": "EDevShellTool is a collection of shell scripts.   Table of Contents  EDevShellTool  Overview  Easy to use    Installation  Git  Without Git    Getting Started",
             "title": "Overview"
         },
         {
-            "location": "/#sadadadsadada",
-            "text": "assadadada",
-            "title": "sadadadsadada"
-        },
-        {
-            "location": "/#sadadadsadada_1",
-            "text": "assadadada   See Also:  aaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.  bbbbbbbbbbbbbbbbbbbbbb.",
-            "title": "sadadadsadada"
+            "location": "/#easy-to-use",
+            "text": "Just open",
+            "title": "Easy to use"
         },
         {
             "location": "/#installation",
@@ -32,7 +27,7 @@
         },
         {
             "location": "/#without-git",
-            "text": "sadsadsa",
+            "text": "sadsadsa   See Also:  aaaaaaaaaaaaaaaaaaaaa\nnnnnnnnnnnnnnnnnnnnnnnnnnnn.  bbbbbbbbbbbbbbbbbbbbbb.",
             "title": "Without Git"
         },
         {
