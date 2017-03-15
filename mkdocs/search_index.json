@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\nDocumentation\n\u00b6\n\n\nA collection of documents and articles that inspired this project.\n\n\nCMD\n\u00b6\n\n\n\n\nElevate permissions\n\n\nSS64 - Syntax Elevate\n\n\nShell folder shortcuts\n\n\nSS64 - Shell Folder Shortcuts\n\n\nComments\n\n\nStackOverflow - Which comment style should I use in batch files? \n\n\n.bat vs .cmd files\n\n\nStackOverflow - Windows batch files: .bat vs .cmd?\n\n\nWSL (Windows Subsystem for Linux)\n\n\nAuthor\n (\nMSDN - WSL Command Reference\n)\n\n\nHowToGeek - How to Install and Use the Linux Bash Shell on Windows 10\n\n\nStackOverflow - Calling WSL apps through ps/cmd\n\n\nCMD Comments (\nReference #1\n)\n\n\nStart PowerShell default colors\n\n\nStackOverflow - Launch PS from CMD\n\n\n\n\nPowerShell\n\u00b6\n\n\n\n\nStart default colors\n\n\nStackOverflow - Launch shortcut PS default colors",
+            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas",
             "title": "Home"
         },
         {
@@ -31,23 +31,13 @@
             "title": "Without Git"
         },
         {
-            "location": "/#documentation",
-            "text": "A collection of documents and articles that inspired this project.",
-            "title": "Documentation"
-        },
-        {
-            "location": "/#cmd",
-            "text": "Elevate permissions  SS64 - Syntax Elevate  Shell folder shortcuts  SS64 - Shell Folder Shortcuts  Comments  StackOverflow - Which comment style should I use in batch files?   .bat vs .cmd files  StackOverflow - Windows batch files: .bat vs .cmd?  WSL (Windows Subsystem for Linux)  Author  ( MSDN - WSL Command Reference )  HowToGeek - How to Install and Use the Linux Bash Shell on Windows 10  StackOverflow - Calling WSL apps through ps/cmd  CMD Comments ( Reference #1 )  Start PowerShell default colors  StackOverflow - Launch PS from CMD",
-            "title": "CMD"
-        },
-        {
-            "location": "/#powershell",
-            "text": "Start default colors  StackOverflow - Launch shortcut PS default colors",
-            "title": "PowerShell"
+            "location": "/#getting-started",
+            "text": "asaasdas",
+            "title": "Getting Started"
         },
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\nDocumentation\n\u00b6\n\n\nA collection of documents and articles that inspired this project.\n\n\nCMD\n\u00b6\n\n\n\n\nElevate permissions\n\n\nSS64 - Syntax Elevate\n\n\nShell folder shortcuts\n\n\nSS64 - Shell Folder Shortcuts\n\n\nComments\n\n\nStackOverflow - Which comment style should I use in batch files? \n\n\n.bat vs .cmd files\n\n\nStackOverflow - Windows batch files: .bat vs .cmd?\n\n\nWSL (Windows Subsystem for Linux)\n\n\nAuthor\n (\nMSDN - WSL Command Reference\n)\n\n\nHowToGeek - How to Install and Use the Linux Bash Shell on Windows 10\n\n\nStackOverflow - Calling WSL apps through ps/cmd\n\n\nCMD Comments (\nReference #1\n)\n\n\nStart PowerShell default colors\n\n\nStackOverflow - Launch PS from CMD\n\n\n\n\nPowerShell\n\u00b6\n\n\n\n\nStart default colors\n\n\nStackOverflow - Launch shortcut PS default colors",
+            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstallation\n\u00b6\n\n\nGit\n\u00b6\n\n\nasdada\n\n\nWithout Git\n\u00b6\n\n\nsadsadsa\n\n\n\n\nGetting Started\n\u00b6\n\n\nasaasdas",
             "title": "Writing Your Docs"
         },
         {
@@ -76,19 +66,9 @@
             "title": "Without Git"
         },
         {
-            "location": "/#documentation",
-            "text": "A collection of documents and articles that inspired this project.",
-            "title": "Documentation"
-        },
-        {
-            "location": "/#cmd",
-            "text": "Elevate permissions  SS64 - Syntax Elevate  Shell folder shortcuts  SS64 - Shell Folder Shortcuts  Comments  StackOverflow - Which comment style should I use in batch files?   .bat vs .cmd files  StackOverflow - Windows batch files: .bat vs .cmd?  WSL (Windows Subsystem for Linux)  Author  ( MSDN - WSL Command Reference )  HowToGeek - How to Install and Use the Linux Bash Shell on Windows 10  StackOverflow - Calling WSL apps through ps/cmd  CMD Comments ( Reference #1 )  Start PowerShell default colors  StackOverflow - Launch PS from CMD",
-            "title": "CMD"
-        },
-        {
-            "location": "/#powershell",
-            "text": "Start default colors  StackOverflow - Launch shortcut PS default colors",
-            "title": "PowerShell"
+            "location": "/#getting-started",
+            "text": "asaasdas",
+            "title": "Getting Started"
         },
         {
             "location": "/about/release-notes/",
