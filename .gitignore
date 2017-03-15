@@ -1,18 +1,20 @@
-# CUSTOM by edevbashtool
+# edevbashtool
 
-# Temp txt file
+# Temp files
 notes.txt
-addcommitpush.cmd
-# Temp folder
 tempFolder/
-# Ignore all log files.
+# Logging
 /include/**/*.log
-# Main log files.
 appLog.txt
 errorLog.txt
-
+# Utility Scripts
+addcommitpush.cmd
+cmdhere.cmd
+mkdocsbuild.cmd
+mkdocsdeploy.cmd
+# Backups
+mkdocsbak.yml
 # MKDocs
-# site generated.
 site/
 
 # Created by https://www.gitignore.io/api/osx,visualstudiocode,windows

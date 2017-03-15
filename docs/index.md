@@ -2,13 +2,15 @@
 
 A cross platform shell script tool.
 
-<h1 align="center">Technologies</h1>
+> sadada
+
+## Technologies
 
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-cmd-icon.png"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-bash-icon.png"></a>
-<a href="https://github.com/PowerShell/PowerShell"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-ps-icon.png"></a>
-<a href="https://en.wikipedia.org/wiki/VBScript"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/shell-vbs-icon.png"></a>
+<a href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="img/shell-cmd-icon.png"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="img/shell-bash-icon.png"></a>
+<a href="https://github.com/PowerShell/PowerShell"><img src="img/shell-ps-icon.png"></a>
+<a href="https://en.wikipedia.org/wiki/VBScript"><img src="img/shell-vbs-icon.png"></a>
 </p>
 
 ***

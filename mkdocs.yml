@@ -5,6 +5,12 @@ site_author: Enthusiastic Development
 
 pages:
 - Home: index.md
+- User Guide:
+    - Writing Your Docs: index.md
+- About:
+    - Release Notes: about/release-notes.md
+    - Contributing: about/contributing.md
+    - License: about/license.md
 
 extra_css:
 - css/extra.css

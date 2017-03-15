@@ -2,31 +2,14 @@
 
 A cross platform shell script tool.
 
-<h1 align="center">Features</h1>
+> asdada
 
-* CMD Shell:
-  * Self elevated prompt.
+---
 
+[![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/EnthDev)
 
-<h1 align="center">Compatibility</h1>
-<p align="center">
-<a href="https://www.microsoft.com/en-us/windows/"><img src="https://github.com/EnthDev/edevshelltool/raw/master/doc/os_win.png"></a>
-</p>
-
-[more...](TODO.md#compatibility)
-
-<h1 align="center">Usage</h1>
-
-Windows Systems:
-
-```bat
-win_bootstrap.bat
-```
-
-## Links
-* [Documentation](https://github.com/EnthDev/edevshelltool/wiki)
-* [Contribute](TODO.md)
-* [Support](THANKS.md)
+* [Documentation](https://enthdev.github.io/edevshelltool/)
+* [Wiki](https://github.com/EnthDev/edevshelltool/wiki)
 * [Contact](mailto:enthdev@outlook.com)
 
 ***

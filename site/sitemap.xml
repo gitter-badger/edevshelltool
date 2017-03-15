@@ -4,9 +4,41 @@
     
     <url>
      <loc>https://enthdev.github.io/edevshelltool//</loc>
-     <lastmod>2017-03-14</lastmod>
+     <lastmod>2017-03-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>https://enthdev.github.io/edevshelltool//</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://enthdev.github.io/edevshelltool//about/release-notes/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://enthdev.github.io/edevshelltool//about/contributing/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://enthdev.github.io/edevshelltool//about/license/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
