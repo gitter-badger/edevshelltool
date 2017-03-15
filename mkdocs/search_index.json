@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\u00b6\n\n\nA collection of documents and articles that inspired this project.\n\n\nCMD\n\u00b6\n\n\n\n\nElevate permissions\n\n\nSS64 - Syntax Elevate\n\n\nShell folder shortcuts\n\n\nSS64 - Shell Folder Shortcuts\n\n\nComments\n\n\nStackOverflow - Which comment style should I use in batch files? \n\n\n.bat vs .cmd files\n\n\nStackOverflow - Windows batch files: .bat vs .cmd?\n\n\nWSL (Windows Subsystem for Linux)\n\n\nAuthor\n (\nMSDN - WSL Command Reference\n)\n\n\nHowToGeek - How to Install and Use the Linux Bash Shell on Windows 10\n\n\nStackOverflow - Calling WSL apps through ps/cmd\n\n\nCMD Comments (\nReference #1\n)\n\n\nStart PowerShell default colors\n\n\nStackOverflow - Launch PS from CMD\n\n\n\n\nPowerShell\n\u00b6\n\n\n\n\nStart default colors\n\n\nStackOverflow - Launch shortcut PS default colors",
             "title": "Home"
         },
         {
@@ -12,12 +12,27 @@
         },
         {
             "location": "/#technologies",
-            "text": "This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
+            "text": "",
             "title": "Technologies"
         },
         {
+            "location": "/#documentation",
+            "text": "A collection of documents and articles that inspired this project.",
+            "title": "Documentation"
+        },
+        {
+            "location": "/#cmd",
+            "text": "Elevate permissions  SS64 - Syntax Elevate  Shell folder shortcuts  SS64 - Shell Folder Shortcuts  Comments  StackOverflow - Which comment style should I use in batch files?   .bat vs .cmd files  StackOverflow - Windows batch files: .bat vs .cmd?  WSL (Windows Subsystem for Linux)  Author  ( MSDN - WSL Command Reference )  HowToGeek - How to Install and Use the Linux Bash Shell on Windows 10  StackOverflow - Calling WSL apps through ps/cmd  CMD Comments ( Reference #1 )  Start PowerShell default colors  StackOverflow - Launch PS from CMD",
+            "title": "CMD"
+        },
+        {
+            "location": "/#powershell",
+            "text": "Start default colors  StackOverflow - Launch shortcut PS default colors",
+            "title": "PowerShell"
+        },
+        {
             "location": "/",
-            "text": "EDev Shell Tool\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis document was written with \nGitHub Flavored Markdown\n :octocat: and \nEmoji\n :smile:",
+            "text": "EDev Shell Tool\n\u00b6\n\n\nA cross platform shell script tool.\n\n\n\n\nsadada\n\n\n\n\nTechnologies\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\u00b6\n\n\nA collection of documents and articles that inspired this project.\n\n\nCMD\n\u00b6\n\n\n\n\nElevate permissions\n\n\nSS64 - Syntax Elevate\n\n\nShell folder shortcuts\n\n\nSS64 - Shell Folder Shortcuts\n\n\nComments\n\n\nStackOverflow - Which comment style should I use in batch files? \n\n\n.bat vs .cmd files\n\n\nStackOverflow - Windows batch files: .bat vs .cmd?\n\n\nWSL (Windows Subsystem for Linux)\n\n\nAuthor\n (\nMSDN - WSL Command Reference\n)\n\n\nHowToGeek - How to Install and Use the Linux Bash Shell on Windows 10\n\n\nStackOverflow - Calling WSL apps through ps/cmd\n\n\nCMD Comments (\nReference #1\n)\n\n\nStart PowerShell default colors\n\n\nStackOverflow - Launch PS from CMD\n\n\n\n\nPowerShell\n\u00b6\n\n\n\n\nStart default colors\n\n\nStackOverflow - Launch shortcut PS default colors",
             "title": "Writing Your Docs"
         },
         {
@@ -27,8 +42,23 @@
         },
         {
             "location": "/#technologies",
-            "text": "This document was written with  GitHub Flavored Markdown  :octocat: and  Emoji  :smile:",
+            "text": "",
             "title": "Technologies"
+        },
+        {
+            "location": "/#documentation",
+            "text": "A collection of documents and articles that inspired this project.",
+            "title": "Documentation"
+        },
+        {
+            "location": "/#cmd",
+            "text": "Elevate permissions  SS64 - Syntax Elevate  Shell folder shortcuts  SS64 - Shell Folder Shortcuts  Comments  StackOverflow - Which comment style should I use in batch files?   .bat vs .cmd files  StackOverflow - Windows batch files: .bat vs .cmd?  WSL (Windows Subsystem for Linux)  Author  ( MSDN - WSL Command Reference )  HowToGeek - How to Install and Use the Linux Bash Shell on Windows 10  StackOverflow - Calling WSL apps through ps/cmd  CMD Comments ( Reference #1 )  Start PowerShell default colors  StackOverflow - Launch PS from CMD",
+            "title": "CMD"
+        },
+        {
+            "location": "/#powershell",
+            "text": "Start default colors  StackOverflow - Launch shortcut PS default colors",
+            "title": "PowerShell"
         },
         {
             "location": "/about/release-notes/",
@@ -42,12 +72,12 @@
         },
         {
             "location": "/about/license/",
-            "text": "License\n\n\nThe legal stuff.\n\n\n\n\nIncluded projects\n\n\nThemes used under license from the ReadTheDocs projects.\n\n\n\n\nReadTheDocs theme - \nView license\n.\n\n\n\n\nScripts used.\n\n\n\n\nCMD Elevate permissions - \nAuthor\n (\nReference #1\n)\n\n\nCMD Download file with vbscript - \nAuthor\n (\nReference #1\n)\n\n\ndjoptimize.bat\n - DJ Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttproaudiooptimizer.bat\n - DJ Pro Audio Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttpcoptimizer.bat\n - DJ PC Optimizer (\nAuthor\n - \nReference #1\n)\n\n\n\n\nMany thanks to the authors and contributors of those wonderful projects.\n\n\nEDev Shell Tool License (MIT)\n\n\nMIT License\n\n\nCopyright (c) 2017 EnthDev\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+            "text": "License\n\u00b6\n\n\nThe legal stuff.\n\n\n\n\n\n\n\n\nLicense\n\n\nIncluded projects\n\n\nEDev Shell Tool License (MIT)\n\n\n\n\n\n\n\n\n\n\nIncluded projects\n\u00b6\n\n\nThemes used under license from the ReadTheDocs projects.\n\n\n\n\nReadTheDocs theme - \nView license\n.\n\n\n\n\nScripts used.\n\n\n\n\nCMD Elevate permissions - \nAuthor\n (\nReference #1\n)\n\n\nCMD Download file with vbscript - \nAuthor\n (\nReference #1\n)\n\n\ndjoptimize.bat\n - DJ Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttproaudiooptimizer.bat\n - DJ Pro Audio Optimizer (\nAuthor\n - \nReference #1\n)\n\n\ndjttpcoptimizer.bat\n - DJ PC Optimizer (\nAuthor\n - \nReference #1\n)\n\n\n\n\nMany thanks to the authors and contributors of those wonderful projects.\n\n\nEDev Shell Tool License (MIT)\n\u00b6\n\n\nMIT License\n\n\nCopyright (c) 2017 EnthDev\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
             "title": "License"
         },
         {
             "location": "/about/license/#license",
-            "text": "The legal stuff.",
+            "text": "The legal stuff.     License  Included projects  EDev Shell Tool License (MIT)",
             "title": "License"
         },
         {
