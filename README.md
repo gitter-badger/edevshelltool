@@ -1,5 +1,7 @@
 # EDevShellTooll
 
+[![Join the chat at https://gitter.im/enthdev/edevshelltool](https://badges.gitter.im/enthdev/edevshelltool.svg)](https://gitter.im/enthdev/edevshelltool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A collection of utility scripts.
 
 > [Project Website][link-projectwebpage]
