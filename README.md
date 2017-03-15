@@ -1,4 +1,4 @@
-# EDev Shell Tool
+# EDevShellTooll
 
 A cross platform shell script tool.
 
@@ -8,12 +8,14 @@ A cross platform shell script tool.
 
 [![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)][link-teampage]
 
-![freeCodeCamp Social Banner](https://raw.githubusercontent.com/EnthDev/edevshelltool/master/images/wide-banner.png)
+![EDevShellTool Banner](https://raw.githubusercontent.com/EnthDev/edevshelltool/master/docs/img/wide-banner.png)
+
+![EDevShellTool Banner](docs/img/wide-banner.png)
 
 * [Documentation][link-projectwebpage]
 * [Wiki][link-projectwiki]
 * [Support][link-teamemail]
-* [~~Discussion~~]() (Soon)
+* [~~Discussion~~](#) (Soon)
 
 ***
 
